@@ -1,5 +1,5 @@
 //second data
-int a = 77777777;
+int a = 11111111;
 int b = 22;
 int a = 88;
 int c = 33;
